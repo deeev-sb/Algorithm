@@ -29,6 +29,7 @@
 - [피보나치 수](./solution(3).java)
 - [최솟값 만들기](./solution(4).java)
 - [N개의 최소공배수](./solution(5).java) (최대공약수와 최소공배수를 함수로 만들어 사용)
+- [전화번호 목록](./solution(6).java) (startsWith)
 
 ---
 
