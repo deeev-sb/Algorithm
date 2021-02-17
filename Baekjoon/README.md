@@ -4,6 +4,6 @@
 </div>
 
 ### Solve List
-|Level|Solved|
-|:---:|---|
-|<img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" height="20" style="vertical-align:middle;" />|[10799 쇠막대기](https://github.com/Kim-SuBin/Algorithm/blob/main/Baekjoon/10799.py)|
+|Type|Solved|
+|---|---|
+|자료구조, 스택|[10799 쇠막대기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](https://github.com/Kim-SuBin/Algorithm/blob/main/Baekjoon/10799.py)|
