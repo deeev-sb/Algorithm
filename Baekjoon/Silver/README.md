@@ -17,3 +17,11 @@
 |스택|[스택 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="실버4" height="13" />](./10828.py)| => sys.stdin.readline().rstrip() 으로 입력받음
 |에라토스테네스의 체|[소수찾기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="실버4" height="13" />](./1978.py)|
 |스택|[괄호 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="실버4" height="13" />](./9012.py)|
+|시뮬레이션|[행복한 소수 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](./10434.py)|
+|BFS|[돌다리 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](./12761.py)|
+|스택|[스택 수열 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](./1874.py)|
+|그리디|[행렬 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](./1080.py)|
+|DP|[1로 만들기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](./1463.py)|
+|DP|[계단 오르기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](./2579.py)|
+|BFS|[아기상어2 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/4%EC%A3%BC%EC%B0%A8/17086/17086_sb.py)|
+|DFS, BFS|[촌수계산 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/4%EC%A3%BC%EC%B0%A8/2644/2644_sb.py)|
