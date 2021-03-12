@@ -8,7 +8,7 @@ check[0], check[1] = 0, 0
 cnt = 0
 
 for i in range(2, 1001) :
-    if check[i] == 1:
+    if check[i] :
         for j in range(i+i, 1001, i) :
             check[j] = 0
 
