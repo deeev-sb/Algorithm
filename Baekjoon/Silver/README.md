@@ -25,3 +25,9 @@
 |DP|[계단 오르기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](./2579.py)|
 |BFS|[아기상어2 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/4%EC%A3%BC%EC%B0%A8/17086/17086_sb.py)|
 |DFS, BFS|[촌수계산 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/4%EC%A3%BC%EC%B0%A8/2644/2644_sb.py)|
+|시뮬레이션|[트럭 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/5%EC%A3%BC%EC%B0%A8/13335/13335_sb.py)|
+|시뮬레이션|[거북이 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/5%EC%A3%BC%EC%B0%A8/8911/8911_sb.py)|
+|DP|[스티커 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/5%EC%A3%BC%EC%B0%A8/9465/9465_sb.py)|
+|트리|[이진검색트리 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/6%EC%A3%BC%EC%B0%A8/5639/5639_sb.py)|
+|그리디|[주식 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/6%EC%A3%BC%EC%B0%A8/11501/11501_sb.py)|
+|백트래킹|[감시피하기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/6%EC%A3%BC%EC%B0%A8/18428/18428_sb.py)|
