@@ -5,8 +5,8 @@
 
 
 ### Solve List
-|Type|Solved|
-|---|:---|
+|Type|Solved||
+|---|:---|:---:|
 |자료구조, 스택|[쇠막대기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](https://www.acmicpc.net/problem/10799)|[Python](./10799.py)|
 |DFS, BFS|[바이러스 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](https://www.acmicpc.net/problem/2606)|[Python](./2606.py)|
 |백트래킹|[스타트와 링크 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](https://www.acmicpc.net/problem/14889)|[Python](./14889.py)|
