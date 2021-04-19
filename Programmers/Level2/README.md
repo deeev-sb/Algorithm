@@ -20,6 +20,7 @@
 - [위장](./solution(8).py)
 - [주식가격](./solution(9).py)
 - [프린터](./solution(10).py)
+- [2021 KAKAO BLIND RECRUITMENT 메뉴 리뉴얼](https://github.com/WebProject-STT/Algorithm/blob/main/programmers/9%EC%A3%BC%EC%B0%A8/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC_sb.py)
 
 ---
 
