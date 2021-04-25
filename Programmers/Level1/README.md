@@ -4,6 +4,7 @@
 
 - [Level 1](#level-1)
     - [Python](#python)
+  - [- 2021 KAKAO BLIND RECRUITMENT 신규 아이디 추천.py)](#--2021-kakao-blind-recruitment-신규-아이디-추천)
     - [Java](#java)
     - [C++](#c)
     - [MySQL](#mysql)
@@ -52,7 +53,8 @@
 - [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](./solution(38).py)
 - [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](./solution(39).py)
 - [2019 KAKAO BLIND RECRUITMENT 실패율](./solution(40).py)
-
+- [두 개 뽑아서 더하기](./solution(41).py)
+- [2021 KAKAO BLIND RECRUITMENT 신규 아이디 추천](./solution(42).py)
 ---
 
 ### Java

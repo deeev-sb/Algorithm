@@ -36,3 +36,4 @@
 ||[마라톤1 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://www.acmicpc.net/problem/10655)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/7%EC%A3%BC%EC%B0%A8/10655/10655_sb.py)|
 |DP|[포도주시식 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://www.acmicpc.net/problem/2156)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/8%EC%A3%BC%EC%B0%A8/2156/2156_sb.java)|
 |그리디|[팔 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://www.acmicpc.net/problem/1105)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/9%EC%A3%BC%EC%B0%A8/1105/1105_sb.py)|
+|에라토스테네스의 체|[소수 구하기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://www.acmicpc.net/problem/1929)|[Python](./1929.py)|

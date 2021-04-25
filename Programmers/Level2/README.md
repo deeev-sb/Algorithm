@@ -21,6 +21,10 @@
 - [주식가격](./solution(9).py)
 - [프린터](./solution(10).py)
 - [2021 KAKAO BLIND RECRUITMENT 메뉴 리뉴얼](https://github.com/WebProject-STT/Algorithm/blob/main/programmers/9%EC%A3%BC%EC%B0%A8/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC_sb.py)
+- [삼각달팽이](./solution(11).py)
+- [2020 카카오 인턴십 수식 최대화](./solution(12).py)
+- [2021 KAKAO BLIND RECRUITMENT 메뉴 리뉴얼](https://github.com/WebProject-STT/Algorithm/blob/main/programmers/9%EC%A3%BC%EC%B0%A8/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC_sb.py)
+- [2018 KAKAO BLIND RECRUITMENT [3차] 방금그곡](https://github.com/WebProject-STT/Algorithm/blob/main/programmers/10%EC%A3%BC%EC%B0%A8/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1_sb.py)
 
 ---
 
