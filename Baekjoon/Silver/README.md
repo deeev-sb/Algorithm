@@ -5,7 +5,7 @@
 
 
 ### Solve List
-|Type|Solved||
+|Type|Problem|Solved|
 |---|:---|:---:|
 |자료구조, 스택|[쇠막대기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](https://www.acmicpc.net/problem/10799)|[Python](./10799.py)|
 |DFS, BFS|[바이러스 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="실버3" height="13" />](https://www.acmicpc.net/problem/2606)|[Python](./2606.py)|
@@ -33,7 +33,7 @@
 |백트래킹|[감시피하기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://www.acmicpc.net/problem/18428)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/6%EC%A3%BC%EC%B0%A8/18428/18428_sb.py)|
 |백트래킹|[연산자끼워넣기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://www.acmicpc.net/problem/14888)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/7%EC%A3%BC%EC%B0%A8/14888/14888_sb.py)|
 |BFS, DFS|[음식물피하기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://www.acmicpc.net/problem/1743)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/7%EC%A3%BC%EC%B0%A8/1743/1743_sb.py)|
-||[마라톤1 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://www.acmicpc.net/problem/10655)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/7%EC%A3%BC%EC%B0%A8/10655/10655_sb.py)|
+| |[마라톤1 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://www.acmicpc.net/problem/10655)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/7%EC%A3%BC%EC%B0%A8/10655/10655_sb.py)|
 |DP|[포도주시식 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="실버1" height="13" />](https://www.acmicpc.net/problem/2156)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/8%EC%A3%BC%EC%B0%A8/2156/2156_sb.java)|
 |그리디|[팔 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://www.acmicpc.net/problem/1105)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/9%EC%A3%BC%EC%B0%A8/1105/1105_sb.py)|
 |에라토스테네스의 체|[소수 구하기 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="실버2" height="13" />](https://www.acmicpc.net/problem/1929)|[Python](./1929.py)|
