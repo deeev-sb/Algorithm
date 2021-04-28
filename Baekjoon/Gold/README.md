@@ -1,6 +1,7 @@
 <div align="center">
   <h1>BaekJoon Gold</h1>
   <img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/dev/languages/python.svg" alt="Python" />
+
 </div>
 
 
@@ -27,4 +28,4 @@
 |브루트포스|[치킨배달 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="골드5" height="13" />](https://www.acmicpc.net/problem/15686)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/10%EC%A3%BC%EC%B0%A8/15686/15686_sb.py)||
 |브루트포스|[배열돌리기4 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/17406)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/10%EC%A3%BC%EC%B0%A8/17406/17406_sb.py)||
 |시뮬레이션|[드래곤 커브 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/15685)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/10%EC%A3%BC%EC%B0%A8/15685/15685_sb.py)||
-||[연구소3 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/17142)|[Python](./17142.py)||
+|구현|[연구소3 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/17142)|[Python](./17142.py)||
