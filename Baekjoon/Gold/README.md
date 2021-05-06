@@ -1,7 +1,7 @@
 <div align="center">
   <h1>BaekJoon Gold</h1>
   <img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/dev/languages/python.svg" alt="Python" />
-
+  <img src="https://github.com/Kim-SuBin/Kim-SuBin/blob/master/svg/dev/languages/java.svg" alt="Java" />
 </div>
 
 
@@ -29,3 +29,8 @@
 |브루트포스|[배열돌리기4 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/17406)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/10%EC%A3%BC%EC%B0%A8/17406/17406_sb.py)||
 |시뮬레이션|[드래곤 커브 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/15685)|[Python](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/10%EC%A3%BC%EC%B0%A8/15685/15685_sb.py)||
 |구현|[연구소3 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/17142)|[Python](./17142.py)||
+|문자열|[전화번호 목록 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/5052)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/11%EC%A3%BC%EC%B0%A8/5052/5052_sb.java)||
+|문자열, 덱|[AC <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="골드5" height="13" />](https://www.acmicpc.net/problem/5430)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/11%EC%A3%BC%EC%B0%A8/5430/5430_sb.java)||
+|그래프 탐색|[거짓말 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/1043)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/11%EC%A3%BC%EC%B0%A8/1043/1043_sb.java)||
+|플로이드-워셜|[저울 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" alt="골드3" height="13" />](https://www.acmicpc.net/problem/10159)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/11%EC%A3%BC%EC%B0%A8/10159/10159_sb.java)||
+|DP, 배낭문제|[평범한배낭 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="골드5" height="13" />](https://www.acmicpc.net/problem/12865)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/12%EC%A3%BC%EC%B0%A8/12865/12865_sb.java)||
