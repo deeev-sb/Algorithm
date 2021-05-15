@@ -46,6 +46,7 @@
 |실패율|[Python](./solution(40).py)|||
 |두 개 뽑아서 더하기|[Python](./solution(41).py)|||
 |신규 아이디 추천|[Python](./solution(42).py)|||
+|내석|[JAVA](./SolutionL1Q36.java)|||
 
 ## SQL
 

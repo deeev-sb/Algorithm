@@ -34,3 +34,9 @@
 |그래프 탐색|[거짓말 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/1043)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/11%EC%A3%BC%EC%B0%A8/1043/1043_sb.java)||
 |플로이드-워셜|[저울 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" alt="골드3" height="13" />](https://www.acmicpc.net/problem/10159)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/11%EC%A3%BC%EC%B0%A8/10159/10159_sb.java)||
 |DP, 배낭문제|[평범한배낭 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="골드5" height="13" />](https://www.acmicpc.net/problem/12865)|[Java](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/12%EC%A3%BC%EC%B0%A8/12865/12865_sb.java)||
+|KMP|[부분문자열 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="골드4" height="13" />](https://www.acmicpc.net/problem/16916)|[JAVA](https://github.com/WebProject-STT/Algorithm/blob/main/baekjoon/12%EC%A3%BC%EC%B0%A8/16916/16916_sb.java)||
+||[여행가자]()|[Java]()||
+
+
+
+

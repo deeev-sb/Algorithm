@@ -11,4 +11,5 @@
 |사칙연산|[평균 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" alt="브론즈1" height="13" />](https://www.acmicpc.net/problem/1546)|[Python](./1546.py)|
 |구현, 문자열|[단어 공부 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" alt="브론즈1" height="13" />](https://www.acmicpc.net/problem/1157)|[Python](./1157.py)|
 |사칙연산, 문자열|[숫자의 합 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" alt="브론즈2" height="13" />](https://www.acmicpc.net/problem/11720)|[Java](./B11720.java)|
-|사칙연산|[나머지](https://www.acmicpc.net/problem/3052)|[JAVA](./B3052.java)|
+|사칙연산|[나머지  <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" alt="브론즈2" height="13" />](https://www.acmicpc.net/problem/3052)|[JAVA](./B3052.java)|
+|구현, 문자열|[알파벳찾기  <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" alt="브론즈2" height="13" />](https://www.acmicpc.net/problem/10809)|[Java](./B10809.java)|
