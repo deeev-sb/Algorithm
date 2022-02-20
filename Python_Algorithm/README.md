@@ -9,7 +9,11 @@
 - [Section 3. 탐색&시뮬레이션 (string, 1차원, 2차원 리스트 탐색)](./docs/Section_3.md)
 - [Section 4. 이분탐색(결정알고리즘)&그리디 알고리즘](./docs/Section_4.md)
 - [Section 5. 자료구조 활용(스택, 큐, 해쉬, 힙)](./docs/Section_5.md)
-- [Section 6. 완전탐색 (백트래킹, 상태트리와 CUT EDGE)-DFS(깊이우선탐색) 기초](./docs/Section_6.md)
+- Section 6. 완전탐색 (백트래킹, 상태트리와 CUT EDGE)-DFS(깊이우선탐색) 기초
+- Section 7. 깊이/넓이 우선 탐색 (DFS/BFS) 활용
+- Section 8. Dynamic Programming (동적계획법)
+- Section 9. 블록 게임 만들기 (총 7회) : 시뮬레이션 (격자탐색과 DFS 활용)
+<!-- - [Section 6. 완전탐색 (백트래킹, 상태트리와 CUT EDGE)-DFS(깊이우선탐색) 기초](./docs/Section_6.md)
 - [Section 7. 깊이/넓이 우선 탐색 (DFS/BFS) 활용](./docs/Section_7.md)
 - [Section 8. Dynamic Programming (동적계획법)](./docs/Section_8.md)
-- [Section 9. 블록 게임 만들기 (총 7회) : 시뮬레이션 (격자탐색과 DFS 활용)](./docs/Section_9.md)
+- [Section 9. 블록 게임 만들기 (총 7회) : 시뮬레이션 (격자탐색과 DFS 활용)](./docs/Section_9.md) -->
