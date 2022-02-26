@@ -3,6 +3,7 @@ package String;
 import java.util.Scanner;
 
 // 문자 찾기
+// text 중에서 word에 해당하는 단어가 몇 개인지 출력
 public class String01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
