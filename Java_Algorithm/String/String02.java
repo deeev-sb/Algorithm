@@ -14,13 +14,32 @@ public class String02 {
         for (char word : text) {
             if (Character.isUpperCase(word)) {
                 answer.append(Character.toLowerCase(word));
-            }
-            else {
+            } else {
                 answer.append(Character.toUpperCase(word));
             }
         }
 
         System.out.println(answer);
-        
+
     }
 }
+
+/* 아래와 같이 아스키 코드를 활용하는 방법도 있음. 대문자 (65-90), 소문자 (97-122)로 32 차이남.
+class Main {
+    public String solution(String str) {
+        String answer = "";
+        for (char x : str.toCharArray()) {
+            if (x >= 97 && x <= 122) answer += (char) (x - 32);
+            else answer += (char) (x + 32);
+        }
+        return answer;
+    }
+
+    public static void main(String[] args) {
+        Main T = new Main();
+        Scanner input = new Scanner(System.in);
+        String str = input.next();
+        System.out.print(T.solution(str));
+    }
+}
+*/
