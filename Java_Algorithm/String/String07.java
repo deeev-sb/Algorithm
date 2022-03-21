@@ -14,6 +14,7 @@ public class String07 {
         String text = input.next().toLowerCase();
         int textLen = text.length();
 
+        // 회문 문자열 확인
         for (int i = 0; i < textLen / 2; i++) {
             if (Character.compare(text.charAt(i), text.charAt(textLen - 1 - i)) != 0) {
                 answer = "NO";
@@ -24,3 +25,19 @@ public class String07 {
         System.out.println(answer);
     }
 }
+
+/* StringBuilder(text).reverse()한 값과 text가 동일한지 확인하는 방법으로 간단하게 비교하는 방법도 있음.
+class Main {
+    public static void main(String[] args) {
+        String answer = "NO";
+        Scanner input = new Scanner(System.in);
+        String text = input.next().toLowerCase();
+        String reverse = new StringBuilder(text).reverse().toString();
+
+        // 회문 문자열 확인
+        if (text.equals(reverse)) answer = "YES";
+
+        System.out.println(answer);
+    }
+}
+*/
