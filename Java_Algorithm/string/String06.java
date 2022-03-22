@@ -1,4 +1,4 @@
-package String;
+package string;
 
 import java.util.Scanner;
 
@@ -9,12 +9,12 @@ import java.util.Scanner;
 public class String06 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        String answer = "";
+        StringBuilder answer = new StringBuilder();
         String text = input.next();
 
         for (int i = 0; i < text.length(); i++) {
             if (text.indexOf(text.charAt(i)) == i) {
-                answer += text.charAt(i);
+                answer.append(text.charAt(i));
             }
         }
 
