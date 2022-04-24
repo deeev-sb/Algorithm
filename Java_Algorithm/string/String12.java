@@ -11,19 +11,13 @@ import java.util.Scanner;
 public class String12 {
     public static String solution(int num, String secretCode) {
         StringBuilder answer = new StringBuilder();
-        String[] codes;
-        int code;
         for (int i = 0; i < num; i++) {
-            // 7개씩 받아와 코드 구성
-            codes = secretCode.substring(7 * i, 7 * (i + 1)).split("");
-            code = 0;
-            for (int idx = 0; idx < 7; idx++) {
-                // 각 코드 확인 -> #이면 1이므로 2진수 계산
-                if (codes[idx].equals("#")) {
-                    code += Math.pow(2, (6 - idx));
-                }
-            }
-            answer.append((char) code);
+            // 7개씩 받아와 2진수 코드 구성
+            String code = secretCode.substring(7 * i, 7 * (i + 1)).replace('#', '1').replace('*', '0');
+            // 2진수를 10진수로 변경
+            int codeNum = Integer.parseInt(code, 2);
+
+            answer.append((char) codeNum);
         }
 
         return answer.toString();
