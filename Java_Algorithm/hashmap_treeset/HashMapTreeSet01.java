@@ -14,19 +14,14 @@ public class HashMapTreeSet01 {
     public static String solution(String[] ballotPapers) {
         // 후보 목록 생성
         HashMap<String, Integer> candidate = new HashMap<>();
-        candidate.put("A", 0);
-        candidate.put("B", 0);
-        candidate.put("C", 0);
-        candidate.put("D", 0);
-        candidate.put("E", 0);
 
         // 후보 이름이 나올 때마다 투표 수 추가
         for (String ballotPaper : ballotPapers) {
-            candidate.put(ballotPaper, candidate.get(ballotPaper) + 1);
+            candidate.put(ballotPaper, candidate.getOrDefault(ballotPaper, 0) + 1);
         }
 
-        String president = "A"; // A 후보를 default 로 설정
-        int ballot = 0;
+        String president = "";
+        int ballot = -1;
 
         // 가장 투표 수가 많은 후보 찾기
         for (String key : candidate.keySet()) {
