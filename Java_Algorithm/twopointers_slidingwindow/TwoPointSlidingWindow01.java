@@ -14,24 +14,6 @@ import java.util.Scanner;
 public class TwoPointSlidingWindow01 {
 
     /**
-     * 남아있는 숫자 추가
-     *
-     * @param idx    배열 현재 인덱스
-     * @param len    배열 길이
-     * @param array  배열
-     * @param answer 정답
-     * @return 완성된 정답 반환
-     */
-    public static String addRemainingNumbers(int idx, int len, int[] array, StringBuilder answer) {
-        // 공백이 포함되지 않도록 마지막 인덱스 값은 반복문에 포함하지 않음
-        for (int i = idx; i < len - 1; i++) {
-            answer.append(array[i]).append(" ");
-        }
-        answer.append(array[len - 1]);
-        return answer.toString();
-    }
-
-    /**
      * 문제 풀이
      *
      * @param firstArrayLen  첫 번째 배열 길이
@@ -47,19 +29,16 @@ public class TwoPointSlidingWindow01 {
 
         while (firstArrayIdx < firstArrayLen && secondArrayIdx < secondArrayLen) {
             if (firstArray[firstArrayIdx] < secondArray[secondArrayIdx]) {
-                answer.append(firstArray[firstArrayIdx]).append(" ");
-                firstArrayIdx++;
+                answer.append(firstArray[firstArrayIdx++]).append(" ");
             } else {
-                answer.append(secondArray[secondArrayIdx]).append(" ");
-                secondArrayIdx++;
+                answer.append(secondArray[secondArrayIdx++]).append(" ");
             }
         }
 
-        if (firstArrayIdx < firstArrayLen) {
-            return addRemainingNumbers(firstArrayIdx, firstArrayLen, firstArray, answer);
-        } else {
-            return addRemainingNumbers(secondArrayIdx, secondArrayLen, secondArray, answer);
-        }
+        // 남아 있는 숫자 추가
+        while(firstArrayIdx < firstArrayLen) answer.append(firstArray[firstArrayIdx++]).append(" ");
+        while(secondArrayIdx < secondArrayLen) answer.append(secondArray[secondArrayIdx++]).append(" ");
+        return String.valueOf(answer);
     }
 
     public static void main(String[] args) {
