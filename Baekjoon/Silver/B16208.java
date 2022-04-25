@@ -22,6 +22,7 @@ import java.util.Scanner;
  * ===
  * 그리디 알고리즘을 사용하면 쉽게 풀 수 있을 것으로 보임
  * 범위를 만족하기 위해서는 int 형태가 아닌 long 형태로 해야 함
+ * int로 돌리면 범위에 대한 오류가 발생함.
  */
 public class B16208 {
     public static long solution(int n, int[] needIronRods) {
