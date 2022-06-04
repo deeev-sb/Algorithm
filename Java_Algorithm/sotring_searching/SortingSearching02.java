@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * 실
+ * 버블 정렬
  * 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘
  */
 public class SortingSearching02 {
