@@ -50,7 +50,7 @@ public class Greedy04 {
 
         // 시간역순으로 강의 선정 (금액 체크)
         int maxTime = lectureInfo[0][1];
-        PriorityQueue<Lecture> lectures = new PriorityQueue<>();
+        PriorityQueue<Lecture> lectures = new PriorityQueue<>(); // 우선순위 : 강연료 내림차순
         int idx = 0;
         for (int time = maxTime; time > 0; time--) {
             // 강의 시간 체크
