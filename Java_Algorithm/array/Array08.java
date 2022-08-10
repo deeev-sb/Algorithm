@@ -48,6 +48,24 @@ public class Array08 {
         }
     }
 
+    // 배열 그 자체를 활용해서 더 쉽게 풀 수 있음!
+    public static void answerSolution(int num, int[] nums) {
+        int[] answer = new int[num];
+
+        for (int i = 0; i < num; i++) {
+            int cnt = 1;
+            for (int j = 0; j < num; j++) {
+                if (nums[j] > nums[i]) cnt++;
+            }
+            answer[i] = cnt;
+        }
+
+        for (int n : answer) {
+            System.out.print(n + " ");
+        }
+
+    }
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
@@ -58,5 +76,7 @@ public class Array08 {
         }
 
         solution(num, nums);
+
+        answerSolution(num, nums);
     }
 }
