@@ -66,6 +66,29 @@ public class Array11 {
         return maxSameStudent[0] + 1;
     }
 
+    private static int answerSolution(int num, int[][] studentsInfo) {
+        int answer = 0;
+        int max = Integer.MIN_VALUE;
+
+        for (int i = 0; i < num; i++) { // i 친구
+            int cnt = 0;
+            for (int j = 0; j < num; j++) { // j 친구
+                for (int k = 0; k < 5; k++) { // 학년
+                    if (studentsInfo[i][k] == studentsInfo[j][k]) {
+                        cnt++;
+                        break;
+                    }
+                }
+            }
+            if (cnt > max) {
+                max = cnt;
+                answer = i;
+            }
+        }
+
+        return answer + 1;
+    }
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
@@ -78,6 +101,8 @@ public class Array11 {
         }
 
         System.out.println(solution(num, studentsInfo));
+
+        System.out.println(answerSolution(num, studentsInfo));
 
     }
 }
