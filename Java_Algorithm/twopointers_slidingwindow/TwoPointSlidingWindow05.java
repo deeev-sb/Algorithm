@@ -32,10 +32,25 @@ public class TwoPointSlidingWindow05 {
         return answer;
     }
 
+    // 수학 공식을 활용한 방법
+    private static int mathSolution(int n) {
+        int answer = 0;
+        int cnt = 1;
+        n--;
+        while (n > 0) {
+            cnt++;
+            n = n - cnt;
+            if (n % cnt == 0) answer++;
+        }
+
+        return answer;
+    }
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
 
         System.out.println(solution(num));
+        System.out.println(mathSolution(num));
     }
 }
