@@ -14,13 +14,13 @@
 
 ## ✍ Solve
 
-👉 [Programmers](./Programmers) <br />
-👉 [BOJ](./Baekjoon) <br />
-👉 [Goorm](./Goorm) <br />
-👉 [Softeer](./Softeer) <br />
-👉 [Python Algorithm](./Python_Algorithm) <br />
-👉 [VitaAlgo](./VitaAlgo) <br />
-👉 [COS](./COS) <br />
+👉 [Programmers](./programmers) <br />
+👉 [BOJ](./baekjoon) <br />
+👉 [Goorm](./goorm) <br />
+👉 [Softeer](./softeer) <br />
+👉 [Python Algorithm](./python_algorithm) <br />
+👉 [VitaAlgo](./vita_algo) <br />
+👉 [COS](./cos) <br />
 
 
 <br />
