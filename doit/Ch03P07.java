@@ -13,7 +13,6 @@ public class Ch03P07 {
         Scanner sc = new Scanner(System.in);
 
         int material = sc.nextInt();
-        ;
         int armor = sc.nextInt();
         int[] materials = new int[material];
 
