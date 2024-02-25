@@ -1,0 +1,23 @@
+-- 헤비 유저가 소유한 장소
+
+-- SELECT ID, NAME, HOST_ID
+-- FROM PLACES
+-- WHERE HOST_ID IN(
+--     SELECT HOST_ID
+--     FROM PLACES
+--     GROUP BY HOST_ID
+--     HAVING COUNT(ID) >= 2
+-- )
+-- ORDER BY ID
+
+SELECT P.ID, P.NAME, P.HOST_ID
+FROM PLACES AS P
+         JOIN
+     (
+         SELECT HOST_ID
+         FROM PLACES
+         GROUP BY HOST_ID
+         HAVING COUNT(ID) >= 2
+     ) AS SUB
+     ON P.HOST_ID = SUB.HOST_ID
+ORDER BY P.ID
