@@ -1,4 +1,4 @@
-package foundation_kotlinPractice
+package foundation_kotlinPractice.day02
 
 
 fun solution(my_string: String, overwrite_string: String, s: Int): String {

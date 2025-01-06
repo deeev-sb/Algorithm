@@ -1,4 +1,4 @@
-package foundation_kotlinPractice
+package foundation_kotlinPractice.day02
 
 //fun main(args: Array<String>) {
 //    val s1 = readLine()!!
